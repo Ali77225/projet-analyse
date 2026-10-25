@@ -38,3 +38,9 @@ def nettoyer(df: pd.DataFrame) -> tuple[pd.DataFrame, dict]:
     journal["lignes_finales"] = len(df)
     return df, journal
 
+
+def charger(chemin: str) -> pd.DataFrame:
+    """Charge le CSV avec les bons types, sans aucun nettoyage."""
+    return pd.read_csv(chemin,
+                       dtype={"InvoiceNo": str, "StockCode": str},
+                       parse_dates=["InvoiceDate"])
