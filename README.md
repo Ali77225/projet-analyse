@@ -55,7 +55,7 @@ Chiffre d'affaires total après nettoyage : ≈ 10,40 M£, dont 84 % au Royaume-
 
 ![CA par pays](figures/ca_par_pays.png)
 
-**Q2 — Évolution mensuelle.** Oui, il y a un pic avant Noël : le CA grimpe dès septembre (≈ 1,06 M£) et culmine en novembre 2011 (≈ 1,50 M£), plus du double d'un mois de début d'année.
+**Q2 — Évolution mensuelle.** Oui, il y a un pic avant Noël : le CA grimpe dès septembre (≈ 1,06 M£) et culmine en novembre 2011 (≈ 1,5 M£), plus du double d'un mois de début d'année.
 
 ![CA mensuel](figures/ca_mensuel.png)
 
