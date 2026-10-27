@@ -1,4 +1,3 @@
-# projet-analyse
 # Analyse des ventes d'un e-commerçant britannique (2010-2011)
 
 Projet réalisé par Ali et Andy — module « Python pour l'analyse de données » (HETIC).
